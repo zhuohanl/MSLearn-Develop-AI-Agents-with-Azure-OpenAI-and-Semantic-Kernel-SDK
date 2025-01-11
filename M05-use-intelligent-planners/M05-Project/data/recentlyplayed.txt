@@ -1,5 +1,10 @@
 [
   {
+    "title": "Touch",
+    "artist": "Cat\u0027s Eye",
+    "genre": "Pop"
+  },
+  {
     "title": "Loanh Quanh",
     "artist": "Mademoiselle",
     "genre": "indie, folk"
