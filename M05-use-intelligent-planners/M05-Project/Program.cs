@@ -22,7 +22,7 @@ namespace M05Project
         {
             // Telemetry setup code goes here
             // Replace the connection string with your Application Insights connection string
-            var connectionString = "InstrumentationKey=311f2ac8-f545-4f9a-8798-029e8a2a776d;IngestionEndpoint=https://eastus2-3.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus2.livediagnostics.monitor.azure.com/;ApplicationId=93e93a9f-dd10-4f14-9ffc-18c016457c6b";
+            var connectionString = "<your-connection-string>";
 
             var resourceBuilder = ResourceBuilder
                 .CreateDefault()
